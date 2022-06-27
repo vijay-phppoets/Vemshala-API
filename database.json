@@ -1,0 +1,18 @@
+{
+    "dev": {
+        "driver": "mysql",
+        "host": "piky.cphjoho4twp0.ap-south-1.rds.amazonaws.com",
+        "port": "3306",
+        "user": "admin",
+        "password": "admin123",
+        "database": "piky"
+    },
+    "local": {
+        "driver": "mysql",
+        "host": "localhost",
+        "port": "3306",
+        "user": "root",
+        "password": "",
+        "database": "piky"
+    }
+}
